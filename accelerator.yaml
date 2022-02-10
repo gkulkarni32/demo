@@ -1,0 +1,13 @@
+accelerator:
+  displayName: spring-demo
+  description: Spring Hello World
+  iconUrl: https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg
+  tags: []
+  options:
+  - name: optionName
+    label: Nice Label
+    display: true
+    defaultValue: ""
+engine:
+  include:
+  - '**'
